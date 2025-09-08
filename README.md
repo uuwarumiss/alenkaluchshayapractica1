@@ -58,6 +58,7 @@ new file: hello.txt```
    - создали новый тектовый файл и по командам занесли его в новую ветку
 *ССЫЛОЧКА НА МИЛОГО КОТИКА:* <https://i.pinimg.com/736x/be/d8/3a/bed83a6961d5738c127f61a78ee94f65.jpg>
 <img width="619" height="640" alt="image" src="https://github.com/user-attachments/assets/a80ea968-d188-4682-91ba-7a2639b504b8" />
+
 # ___Всех благодарю за прочтение!___
 
 
