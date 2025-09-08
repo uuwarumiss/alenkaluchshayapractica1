@@ -13,12 +13,14 @@
 ### *Подготовка файлов*
 Мы добавили один тектовый файл, с помощью команды:
 ```git add hello.txt```
+
 А если нужно добавить всё, что в директории, то:
 ```git add . ```
 и проверяем статус для проверки:
 ```git status```
+
 При выводе мы получили:
-```On branch master```
+```On branch master
 Initial commit
 Changes to be committed:
 (use "git rm --cached ..." to unstage)
