@@ -20,8 +20,8 @@
 ```git status```
 
 При выводе мы получили:
-```On branch master
-Initial commit
+```On branch master```
+```Initial commit
 Changes to be committed:
 (use "git rm --cached ..." to unstage)
 new file: hello.txt```
